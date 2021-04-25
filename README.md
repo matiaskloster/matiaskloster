@@ -7,7 +7,7 @@ I´m a one year experience Django developer , Digital Designer and Musician in m
 
 :computer:  **Lenguages and Tools...**
 
-![Untitled-2](https://user-images.githubusercontent.com/21125171/115999586-c9a1e180-a5c2-11eb-87b3-10ad462915bb.png)
+![Untitled-2](https://user-images.githubusercontent.com/21125171/116000018-e17a6500-a5c4-11eb-9798-95367aca1c13.png)
 
 
 
