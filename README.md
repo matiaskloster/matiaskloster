@@ -1,7 +1,7 @@
 ![Untitled-1](https://user-images.githubusercontent.com/21125171/115977817-c0c4f780-a551-11eb-804c-d447c614433f.png)
 
 
-:tangerine:  I have a year of experience as a Django developer. <br>
+:tangerine:  I have one year experience as a Django developer. <br>
 :sunny:  Digital designer.<br>
 :snake:  Musician in my spare time.<br>
 <br>
