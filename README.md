@@ -2,8 +2,8 @@
 
 
 :tangerine:  I have a year of experience as a Django developer. <br>
-Digital designer.<br>
-Musician in my spare time.<br>
+:sunny:  Digital designer.<br>
+:snake:  Musician in my spare time.<br>
 <br>
 
 
