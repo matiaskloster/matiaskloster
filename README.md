@@ -3,7 +3,7 @@
 
 :tangerine:  I have one year experience as a Django developer. <br>
 :sunny:  Digital designer.<br>
-:snake:  Musician in my leisure time.<br>
+:snake:  Musician in my leisure time.
 <br>
 
 
