@@ -9,7 +9,7 @@
 
 :computer:  **Lenguages and Tools...**
 
-![Untitled-2](https://user-images.githubusercontent.com/21125171/116000018-e17a6500-a5c4-11eb-9798-95367aca1c13.png)
+![Untitled-2](https://user-images.githubusercontent.com/21125171/116914680-6860ba80-ac21-11eb-9e2c-a40f44276f48.png)
 <br>
 
 
