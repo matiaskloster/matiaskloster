@@ -7,7 +7,7 @@
 <br>
 
 
-:computer:  **Lenguages and Tools...**
+:computer:  **Languages and Tools...**
 
 ![Untitled-2](https://user-images.githubusercontent.com/21125171/116914680-6860ba80-ac21-11eb-9e2c-a40f44276f48.png)
 <br>
