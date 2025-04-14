@@ -21,7 +21,7 @@
 
 - 🔍 **Log Analyzer**: A Python tool that parses logs and detects anomalies (focused on SRE/Monitoring).
 - 📈 **Health Checker**: Script to monitor service status and latency with alert integration.
-- 🤖 **Test Automation Demo**: Small web app with automated testing pipeline (pytest + GitHub Actions).
+- 🤖 **Automated Test Suite para un sitio o API **: Small web app with automated testing pipeline (pytest + GitHub Actions).
 
 
 🌐 My Portfolio: [matiaskloster.github.io](https://matiaskloster.github.io)
