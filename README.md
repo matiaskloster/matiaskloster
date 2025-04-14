@@ -1,10 +1,35 @@
 ![Untitled-1](https://user-images.githubusercontent.com/21125171/115977817-c0c4f780-a551-11eb-804c-d447c614433f.png)
 
+Hi! I'm Matias. I'm currently working in Application Support and actively transitioning into roles focused on **Site Reliability Engineering (SRE)** and **QA Automation**.
 
-:tangerine:  I have one year of experience as a Python developer. (Focus on Testing Automation - SRE - Devops) <br>
-:sunny:  Digital designer.<br>
-:snake:  Musician in my free time.
-<br>
+This repository showcases exercises, scripts, and personal projects where I apply tools and concepts from the DevOps, SRE, and testing world:
+
+- 🐍 Python scripting for automation and testing
+- 📊 Service monitoring using tools like New Relic, logs, and custom scripts
+- 🔍 Log analysis with Graylog, regex, and log parsers
+- ✅ Automated testing (unit, integration, mocking, TDD)
+- ☁️ Working with AWS and REST APIs using Python
+- 🛠️ Infrastructure as Code (IaC - upcoming)
+
+---
+
+## Purpose 🎯
+
+This portfolio documents my hands-on progress as I build skills in:
+
+- Python scripting for real-world SRE and QA use cases
+- DevOps culture: observability, reliability, automation
+- CI/CD, alerting, performance, and error handling
+- Best practices in test automation and documentation
+
+---
+
+## In Progress 🚧
+
+This is a living portfolio. I’m continuously adding new projects and exercises as I advance my learning path.
+
+If you'd like to connect, feel free to visit [LinkedIn](https://linkedin.com/in/yourusername).
+
 
 
 :computer:  **Languages and Tools...**
@@ -14,7 +39,7 @@
 
 
 
-:nerd_face: Always open to learn new things <br>
+
 :lemon: How to reach me: email me at mklosterdba@gmail.com
 
 ## 🛠 Projects I'm working on
