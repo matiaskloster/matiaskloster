@@ -1,52 +1,87 @@
-![Untitled-1](https://user-images.githubusercontent.com/21125171/115977817-c0c4f780-a551-11eb-804c-d447c614433f.png)
+## Production Reliability | Structured Troubleshooting | Incident Ownership
 
-Hi! I'm Matias. I'm currently working in Application Support and actively transitioning into roles focused on **Site Reliability Engineering (SRE)** and **QA Automation**.
+Hi, I'm Matias — a Production Application Support Engineer (L3) supporting high-availability SaaS systems in live production environments
 
-This repository showcases exercises, scripts, and personal projects where I apply tools and concepts from the DevOps, SRE, and testing world:
+I specialize in structured troubleshooting, incident investigation, and reliability improvement across distributed systems.
 
-- 🐍 Python scripting for automation and testing
-- 📊 Service monitoring using tools like New Relic, logs, and custom scripts
-- 🔍 Log analysis with Graylog, regex, and log parsers
-- ✅ Automated testing (unit, integration, mocking, TDD)
-- ☁️ Working with AWS and REST APIs using Python
-- 🛠️ Infrastructure as Code (IaC - upcoming)
+3+ years managing complex production incidents in high-availability environments.
 
----
-
-## Purpose 🎯
-
-This portfolio documents my hands-on progress as I build skills in:
-
-- Python scripting for real-world SRE and QA use cases
-- DevOps culture: observability, reliability, automation
-- CI/CD, alerting, performance, and error handling
-- Best practices in test automation and documentation
-
----
-
-## In Progress 🚧
-
-This is a living portfolio. I’m continuously adding new projects and exercises as I advance my learning path.
-
-If you'd like to connect, feel free to visit [LinkedIn](https://linkedin.com/in/yourusername).
-
-
-
-:computer:  **Languages and Tools...**
-
-![Untitled-2](https://user-images.githubusercontent.com/21125171/116914680-6860ba80-ac21-11eb-9e2c-a40f44276f48.png)
 <br>
 
 
+🚀 Selected Production Impact
+
+Led L3 investigations for high-severity production incidents affecting live customer environments.
+
+Reduced incident ambiguity through layered root cause analysis and structured documentation.
+
+Strengthened release confidence via SQL validation and monitoring-based verification.
+
+<br>
+
+
+🧠 What I Do in Production
+
+🔎 L3 escalation for complex incidents
+📊 Monitoring & alert investigation (New Relic, CloudWatch)
+🗄 SQL validation & production data analysis
+🔍 API checks & log correlation
+🚦 Pre-release and post-deployment validation
+📝 Root Cause Analysis & post-incident documentation
+
+I approach problems using a layered diagnostic model:
+
+UI → API → Logs → Database → Infrastructure
+
+<br>
+
+
+🚀 Technical Focus
+
+This repository showcases operational experiments and reliability-focused tooling.
+
+- 🐍 Python for operational tooling and diagnostics
+- 📈 Observability (metrics, logs, system signals)
+- 🐳 Container diagnostics in lab environments (Docker)
+- 🧪 Structured validation and test design (ISTQB-based mindset)
+- ☁️ AWS (monitoring & production exposure)
+- 📊 Performance analysis concepts (latency, saturation, load)
+
+
+<br>
+
+🎯 Target Roles
+
+- Senior Application Support Engineer
+- Reliability Engineer (Mid-level)
+- Production Engineer
+- Applied SRE (Operational Focus)
+
+<br>
+
+
+🛠 Ongoing Projects
+
+🔍 Log pattern analyzer
+📈 Service health diagnostics tool
+🐳 CPU / memory / load simulation experiments
+📊 Incident postmortem templates & structured RCA framework
+
+
+<br>
+
+## 🧭 Professional Approach
+
+Reliability is built through:
+
+- Clear incident thinking
+- Layered system analysis
+- Early signal detection
+- Structured postmortems
+- Continuous operational improvement
 
 
 :lemon: How to reach me: email me at mklosterdba@gmail.com
-
-## 🛠 Projects I'm working on
-
-- 🔍 **Log Analyzer**: A Python tool that parses logs and detects anomalies (focused on SRE/Monitoring).
-- 📈 **Health Checker**: Script to monitor service status and latency with alert integration.
-- 🤖 **Automated Test Suite para un sitio o API **: Small web app with automated testing pipeline (pytest + GitHub Actions).
 
 
 🌐 My Portfolio: [matiaskloster.github.io](https://matiaskloster.github.io)
